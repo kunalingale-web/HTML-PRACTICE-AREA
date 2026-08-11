@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> STUDENT INFORMATION PAGE </title>
+
+    </head>
+    <BODY>
+        <H1> Displaying  All Student Data </H1> <br>
+        <table border="3">
+
+            <thead>
+                <th> Roll  </th>
+                <th> Name </th>
+                <th> Mark</th>
+                <th> Grade </th>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td> 1 </td>
+                     <td><a href="sarvesh.html" >Sarvesh</a></td>
+                      <td> 91 </td>
+                       <td> A </td>
+                </tr>
+                <tr>
+                    <td> 2 </td>
+                     <td><a href="jay.html" >Jay </a></td>
+                      <td> 41 </td>
+                       <td> C </td>
+                </tr>
+                <tr>
+                    <td> 3 </td>
+                     <td><a href="om.html" >Om</a></td>
+                      <td> 81 </td>
+                       <td> A </td>
+                </tr>
+                <tr>
+                    <td> 4 </td>
+                    <td><a href="sanket.html" >Sanket</a></td>
+                      <td> 71 </td>
+                       <td> B </td>
+                </tr>
+
+
+
+
+
+            </tbody>
+        </table>
+
+
+    </BODY>
+
+</html>
